@@ -1,6 +1,6 @@
 ### Hi there 👋
 👋 Hi, I’m @akhteralamin
-👀 I’m interested in buidling tool for Accessible Community
+👀 I’m interested in buidling inclusive tool to boost footprint of accessible community in Machine Learning surface.
 
 🌱 I’m currently learning how to modify Neural Network Model to train Accessibility informed dataset to develop a Caption Evaluation Metric technology.
 
