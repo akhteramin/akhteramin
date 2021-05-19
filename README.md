@@ -6,4 +6,8 @@
 
 💞️ I’m excited to collaborate to build Natural Languae Processing projects focusing on fairness.
 
-📫 Here is my email address: farhanbuet09@gmail.com
+Here is my official email address: aa7510@rit.edu 
+
+This is my personal email address: farhanbuet09@gmail.com
+
+Looking for Summer Internship starting May 2022.
