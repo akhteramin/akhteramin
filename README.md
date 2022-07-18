@@ -2,7 +2,7 @@
 👋 Hi, I’m @akhteralamin
 👀 I’m interested in buidling inclusive tool to boost footprint of accessible community in Machine Learning surface.
 
-🌱 I’m currently learning how to modify Neural Network Model to train Accessibility informed dataset to develop a Caption Evaluation Metric technology.
+🌱 I’m currently building a Neural Network Model to train Accessibility informed dataset to develop a Caption Evaluation Metric.
 
 💞️ I’m excited to collaborate to build Natural Languae Processing projects focusing on fairness.
 
